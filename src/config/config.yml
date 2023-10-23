@@ -1,0 +1,10 @@
+---
+data_source: data/failure.db
+models_to_use:
+  - RandomForestClassifier
+  - DecisionTreeClassifier
+  - KNeighborsClassifier
+  - GaussianNB
+  - GradientBoostingClassifier
+  - Perceptron
+ 
